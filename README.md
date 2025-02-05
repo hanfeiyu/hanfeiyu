@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=#><img src="snake.svg"></a>
-
 <div float="right"> 
 
 ![Hanfei Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanfeiyu&show_icons=true&bg_color=00000000)
