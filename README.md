@@ -1,31 +1,18 @@
-### Hi there 👋
+## Hi, I’m Hanfei Yu (余涵非)
 
-<!--
-**hanfeiyu/hanfeiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a postdoctoral scholar at the [Sky Computing Lab](https://sky.cs.berkeley.edu/) at UC Berkeley, where I work with [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/). My research focuses on systems for LLM serving, reinforcement learning, and serverless computing.
 
-Here are some ideas to get you started:
+[Website](https://hanfeiyu.github.io/) · [Publications](https://hanfeiyu.github.io/publications/) · [CV](https://hanfeiyu.github.io/cv/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected projects
+
+- [REEF](https://github.com/Human-Agent-Society/reef). I co-lead development of infrastructure for continually self-improving agents.
+- [Unipool](https://doi.org/10.1145/3828523.3857110) (ATC ’26). Efficient management of pre-provisioned resources for container platforms. [Public Azure Kubernetes Service traces](https://github.com/Azure/AzurePublicDataset/blob/master/AzurePodDataset2026.md).
+
+### GitHub activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanfeiyu/hanfeiyu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanfeiyu/hanfeiyu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hanfeiyu/hanfeiyu/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation of my GitHub contributions, updated daily" src="https://raw.githubusercontent.com/hanfeiyu/hanfeiyu/output/github-contribution-grid-snake.svg">
 </picture>
-
-<div float="right"> 
-
-![Hanfei Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanfeiyu&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanfeiyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- </div>
- 
-![](https://komarev.com/ghpvc/?username=hanfeiyu&color=lightgrey)
